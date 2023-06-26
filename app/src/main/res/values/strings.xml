@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Kim Kazandi Application</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Develop by Can Karademir</string>
+    <string name="nav_header_subtitle">cankarademir.yazilim@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_yeni_baslayan">Yeni Başlayanlar</string>
+    <string name="menu_bedava_katilim">Bedava Katılım</string>
+    <string name="menu_araba_kazan">Araba Kazan</string>
+    <string name="menu_telefon_tablet_kazan">Telefon Tablet Kazan</string>
+    <string name="menu_tatil_kazan">Tatil Kazan</string>
+    <string name="menu_fallow">Takip Ettiklerim</string>
+    <string name="menu_detail">Detay Sayfası</string>
+</resources>

@@ -1,0 +1,33 @@
+
+]kotlin:S4830"@Enable server certificate validation on this SSL/TLS connection.(ÜĞ®Àùÿÿÿÿ
+Xkotlin:S4830"@Enable server certificate validation on this SSL/TLS connection.(–Õë£
+^kotlin:S101"HRename class "jsoup" to match the regular expression ^[A-Z][a-zA-Z0-9]*$(Ê˜=
+lkotlin:S1192>"MDefine a constant instead of duplicating this literal ".date.d-flex" 6 times.(‰œ´İ8‰Üù1
+ikotlin:S1192E"QDefine a constant instead of duplicating this literal "info mainSocial" 14 times.(Ò°Ş×
+dkotlin:S1192E"LDefine a constant instead of duplicating this literal ".kalanSure" 14 times.(Ò°Ş×
+Pkotlin:S4423 ",Change this code to use a stronger protocol.(éæı…ıÿÿÿÿ8Üù1
+vkotlin:S117a"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(ÓİÍÿÿÿÿÿ8Üù1
+wkotlin:S1186"ZAdd a nested comment explaining why this function is empty or complete the implementation.(ÜĞ®Àùÿÿÿÿ
+rkotlin:S1186"ZAdd a nested comment explaining why this function is empty or complete the implementation.(–Õë£
+Dkotlin:S6518>",Replace function call with indexed accessor.(‰œ´İ
+Dkotlin:S6518?",Replace function call with indexed accessor.(¾Æ·ï
+Dkotlin:S6518@",Replace function call with indexed accessor.(½ºÓˆ
+Pkotlin:S6518D",Replace function call with indexed accessor.(ŠŠÌéıÿÿÿÿ8ÒûÓù1
+Kkotlin:S6518E",Replace function call with indexed accessor.(Ò°Ş×8Ø‹Öù1
+Pkotlin:S6518F",Replace function call with indexed accessor.(¯€Ğÿÿÿÿÿ8®îÔù1
+Kkotlin:S6518G",Replace function call with indexed accessor.(µª©÷8–Üù1
+Pkotlin:S6518H",Replace function call with indexed accessor.(ğ³İæıÿÿÿÿ8–Üù1
+Ikotlin:S6518I",Replace function call with indexed accessor.(†Š—Ğüÿÿÿÿ
+Ikotlin:S6518J",Replace function call with indexed accessor.(İÖ–½üÿÿÿÿ
+Dkotlin:S6518K",Replace function call with indexed accessor.(ã–÷é
+Kkotlin:S6518r",Replace function call with indexed accessor.(‰œ´İ8–Üù1
+Dkotlin:S6518s",Replace function call with indexed accessor.(¾Æ·ï
+Dkotlin:S6518t",Replace function call with indexed accessor.(½ºÓˆ
+Pkotlin:S6518x",Replace function call with indexed accessor.(ŠŠÌéıÿÿÿÿ8–Üù1
+Kkotlin:S6518y",Replace function call with indexed accessor.(Ò°Ş×8ÒûÓù1
+Pkotlin:S6518z",Replace function call with indexed accessor.(¯€Ğÿÿÿÿÿ8–Üù1
+Kkotlin:S6518{",Replace function call with indexed accessor.(µª©÷8—Üù1
+Pkotlin:S6518|",Replace function call with indexed accessor.(ğ³İæıÿÿÿÿ8—Üù1
+Pkotlin:S6518}",Replace function call with indexed accessor.(†Š—Ğüÿÿÿÿ8Ó§Òù1
+Ikotlin:S6518~",Replace function call with indexed accessor.(İÖ–½üÿÿÿÿ
+Kkotlin:S6518",Replace function call with indexed accessor.(ã–÷é8Ù‹Öù1

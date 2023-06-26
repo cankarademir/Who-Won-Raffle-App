@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.cankarademir.kimkazandiapplication.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_yeni_baslayan"
+        android:name="com.cankarademir.kimkazandiapplication.ui.yenibaslayanlar.YeniBaslayanlarFragment"
+        android:label="@string/menu_yeni_baslayan"
+        tools:layout="@layout/fragment_yeni_baslayanlar" />
+
+    <fragment
+        android:id="@+id/nav_bedava_katilim"
+        android:name="com.cankarademir.kimkazandiapplication.ui.bedavakatilim.BedavaKatilimFragment"
+        android:label="@string/menu_bedava_katilim"
+        tools:layout="@layout/fragment_bedava_katilim" />
+
+    <fragment
+        android:id="@+id/nav_araba_kazan"
+        android:name="com.cankarademir.kimkazandiapplication.ui.arabakazan.ArabaKazanFragment"
+        android:label="@string/menu_araba_kazan"
+        tools:layout="@layout/fragment_araba_kazan" />
+
+    <fragment
+        android:id="@+id/nav_telefon_tablet_kazan"
+        android:name="com.cankarademir.kimkazandiapplication.ui.telefontabletkazan.TelefonTabletKazanFragment"
+        android:label="@string/menu_telefon_tablet_kazan"
+        tools:layout="@layout/fragment_telefon_tablet_kazan" />
+
+    <fragment
+        android:id="@+id/nav_tatil_kazan"
+        android:name="com.cankarademir.kimkazandiapplication.ui.tatilkazan.TatilKazanFragment"
+        android:label="@string/menu_tatil_kazan"
+        tools:layout="@layout/fragment_tatil_kazan" />
+
+    <fragment
+        android:id="@+id/nav_fallow"
+        android:name="com.cankarademir.kimkazandiapplication.ui.follow.FollowFragment"
+        android:label="@string/menu_fallow"
+        tools:layout="@layout/fragment_follow" />
+    <fragment
+        android:id="@+id/nav_detail"
+        android:name="com.cankarademir.kimkazandiapplication.ui.detail.DetailFragment"
+        android:label="@string/menu_detail"
+        tools:layout="@layout/fragment_detail" />
+</navigation>
